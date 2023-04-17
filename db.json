@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone update",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_18.png",
+      "price": 200000,
+      "description": "abc"
+    },
+    {
+      "id": 2,
+      "name": "xiaoMiii",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/x/i/xiaomi-12t-den_2.jpg",
+      "price": 200000,
+      "description": "abc"
+    },
+    {
+      "id": 3,
+      "name": "samsung 111",
+      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/s/a/samsung_galaxy_z_fold_4-7.jpg",
+      "price": 200000,
+      "description": "abc"
+    }
+  ]
+}
